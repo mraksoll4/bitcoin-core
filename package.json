@@ -10,7 +10,7 @@
     "rest",
     "rpc"
   ],
-  "homepage": "https://github.com/ruimarinho/bitcoin-core",
+  "homepage": "https://github.com/mraksoll4/bitcoin-core",
   "bugs": "https://github.com/ruimarinho/bitcoin-core/issues",
   "license": "MIT",
   "author": {
@@ -20,7 +20,7 @@
   "main": "dist/src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ruimarinho/bitcoin-core.git"
+    "url": "https://github.com/mraksoll4/bitcoin-core.git"
   },
   "scripts": {
     "changelog": "github_changelog_generator --no-issues --header-label='# Changelog' --future-release=$npm_config_future_release && sed -i '' -e :a -e '$d;N;2,4ba' -e 'P;D' CHANGELOG.md",
